@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "宵々古今",
+  "base_artist": "REOL",
+  "createdAt": "2026-01-11T01:22:57.213274Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "宵々古今",
+      "artist": "REOL",
+      "has_synced": true,
+      "path": "select/01_宵々古今_REOL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "宵々古今",
+      "artist": "レヲル",
+      "has_synced": true,
+      "path": "select/02_宵々古今_レヲル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "宵々古今 (Yoiyoi Kokon)",
+      "artist": "REOL",
+      "has_synced": true,
+      "path": "select/03_宵々古今_(Yoiyoi_Kokon)_REOL.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "宵々古今",
+      "artist": "REOL",
+      "has_synced": true,
+      "path": "select/04_宵々古今_REOL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "宵々古今",
+      "artist": "レヲル",
+      "has_synced": true,
+      "path": "select/05_宵々古今_レヲル.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "宵々古今 - Yoiyoi Kokon",
+      "artist": "REOL",
+      "has_synced": true,
+      "path": "select/06_宵々古今_-_Yoiyoi_Kokon_REOL.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "宵々古今",
+      "artist": "REOL",
+      "has_synced": true,
+      "path": "select/07_宵々古今_REOL.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "宵々古今",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/08_宵々古今_Reol.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "宵々古今",
+      "artist": "RΞOL (REOL)",
+      "has_synced": true,
+      "path": "select/09_宵々古今_RΞOL_(REOL).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "宵々古今 (宵宵古今)",
+      "artist": "Reol (れをる)",
+      "has_synced": true,
+      "path": "select/10_宵々古今_(宵宵古今)_Reol_(れをる).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "宵々古今",
+      "artist": "RΞOL",
+      "has_synced": true,
+      "path": "select/11_宵々古今_RΞOL.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "宵々古今 (Paused)",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/12_宵々古今_(Paused)_Reol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宵々古今",
+      "artist": "REOL",
+      "has_synced": false,
+      "path": "select/pl_01_宵々古今_REOL.txt"
+    }
+  ]
+}
